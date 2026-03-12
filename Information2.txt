@@ -1,5 +1,0 @@
-Dedicated IP : 101.2.192.86  IP Chicken
-
-Geo IP For Thai : 164.137.169.60 
-
-Default IP (Zscaler node ) : 167.103.66.87
